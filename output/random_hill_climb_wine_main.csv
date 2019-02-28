@@ -1,0 +1,271 @@
+,mean_train_score,param_MLP__alpha,param_MLP__hidden_layer_sizes,param_MLP__activation,algorithm,mean_test_score
+0,0.631269251,100,[12],relu,random_hill_climb,0.626305875
+1,0.515570451,100,[6],relu,random_hill_climb,0.515563207
+2,0.754036828,100,[24],relu,random_hill_climb,0.751445704
+3,0.724917763,100,"[12, 12]",relu,random_hill_climb,0.724310208
+4,0.757856414,100,"[6, 6]",relu,random_hill_climb,0.758946817
+5,0.751730262,100,"[24, 24]",relu,random_hill_climb,0.744525119
+6,0.767302091,100,"[12, 12, 12]",relu,random_hill_climb,0.764416083
+7,0.73327989,100,"[6, 6, 6]",relu,random_hill_climb,0.740468497
+8,0.72851643,100,"[24, 24, 24]",relu,random_hill_climb,0.71684777
+9,0.693484882,31.6227766,[12],relu,random_hill_climb,0.689730986
+10,0.702855706,31.6227766,[6],relu,random_hill_climb,0.702406943
+11,0.753822743,31.6227766,[24],relu,random_hill_climb,0.752872488
+12,0.716485746,31.6227766,"[12, 12]",relu,random_hill_climb,0.705865988
+13,0.712439889,31.6227766,"[6, 6]",relu,random_hill_climb,0.703873648
+14,0.769607955,31.6227766,"[24, 24]",relu,random_hill_climb,0.756634272
+15,0.793180018,31.6227766,"[12, 12, 12]",relu,random_hill_climb,0.790080301
+16,0.755330462,31.6227766,"[6, 6, 6]",relu,random_hill_climb,0.747135413
+17,0.725563138,31.6227766,"[24, 24, 24]",relu,random_hill_climb,0.705596933
+18,0.727724417,10,[12],relu,random_hill_climb,0.719155324
+19,0.673586495,10,[6],relu,random_hill_climb,0.668115074
+20,0.766796079,10,[24],relu,random_hill_climb,0.767593598
+21,0.777609514,10,"[12, 12]",relu,random_hill_climb,0.766729876
+22,0.77472606,10,"[6, 6]",relu,random_hill_climb,0.773356039
+23,0.777033925,10,"[24, 24]",relu,random_hill_climb,0.767011823
+24,0.784025124,10,"[12, 12, 12]",relu,random_hill_climb,0.776528147
+25,0.725704112,10,"[6, 6, 6]",relu,random_hill_climb,0.726367421
+26,0.721522529,10,"[24, 24, 24]",relu,random_hill_climb,0.703014917
+27,0.762615484,3.16227766,[12],relu,random_hill_climb,0.75143614
+28,0.702639802,3.16227766,[6],relu,random_hill_climb,0.692891451
+29,0.775734913,3.16227766,[24],relu,random_hill_climb,0.770766537
+30,0.782078009,3.16227766,"[12, 12]",relu,random_hill_climb,0.770469204
+31,0.791521581,3.16227766,"[6, 6]",relu,random_hill_climb,0.779418308
+32,0.797577453,3.16227766,"[24, 24]",relu,random_hill_climb,0.773931992
+33,0.781213456,3.16227766,"[12, 12, 12]",relu,random_hill_climb,0.765576306
+34,0.745019921,3.16227766,"[6, 6, 6]",relu,random_hill_climb,0.726088801
+35,0.738752899,3.16227766,"[24, 24, 24]",relu,random_hill_climb,0.726650615
+36,0.797145956,1,[12],relu,random_hill_climb,0.794689172
+37,0.786547958,1,[6],relu,random_hill_climb,0.778260996
+38,0.811201933,1,[24],relu,random_hill_climb,0.806228194
+39,0.805002774,1,"[12, 12]",relu,random_hill_climb,0.787194714
+40,0.815166806,1,"[6, 6]",relu,random_hill_climb,0.802189037
+41,0.817617984,1,"[24, 24]",relu,random_hill_climb,0.799883562
+42,0.808534591,1,"[12, 12, 12]",relu,random_hill_climb,0.792677703
+43,0.801038472,1,"[6, 6, 6]",relu,random_hill_climb,0.794980684
+44,0.771048306,1,"[24, 24, 24]",relu,random_hill_climb,0.758367121
+45,0.821727339,0.316227766,[12],relu,random_hill_climb,0.815168149
+46,0.776673799,0.316227766,[6],relu,random_hill_climb,0.766723638
+47,0.818843963,0.316227766,[24],relu,random_hill_climb,0.808820606
+48,0.816536981,0.316227766,"[12, 12]",relu,random_hill_climb,0.801614332
+49,0.818122437,0.316227766,"[6, 6]",relu,random_hill_climb,0.812278819
+50,0.814878986,0.316227766,"[24, 24]",relu,random_hill_climb,0.795557053
+51,0.814375235,0.316227766,"[12, 12, 12]",relu,random_hill_climb,0.801039211
+52,0.812932104,0.316227766,"[6, 6, 6]",relu,random_hill_climb,0.808826428
+53,0.702782024,0.316227766,"[24, 24, 24]",relu,random_hill_climb,0.695503408
+54,0.799884747,0.1,[12],relu,random_hill_climb,0.797578086
+55,0.760885546,0.1,[6],relu,random_hill_climb,0.754904749
+56,0.76391356,0.1,[24],relu,random_hill_climb,0.760392313
+57,0.797578077,0.1,"[12, 12]",relu,random_hill_climb,0.788069663
+58,0.812283326,0.1,"[6, 6]",relu,random_hill_climb,0.812569915
+59,0.788567249,0.1,"[24, 24]",relu,random_hill_climb,0.779703998
+60,0.784458128,0.1,"[12, 12, 12]",relu,random_hill_climb,0.779697344
+61,0.795559773,0.1,"[6, 6, 6]",relu,random_hill_climb,0.792098424
+62,0.25634355,0.1,"[24, 24, 24]",relu,random_hill_climb,0.255186696
+63,0.499855336,0.031622777,[12],relu,random_hill_climb,0.498835618
+64,0.536259683,0.031622777,[6],relu,random_hill_climb,0.536901331
+65,0.473688082,0.031622777,[24],relu,random_hill_climb,0.472895276
+66,0.680507155,0.031622777,"[12, 12]",relu,random_hill_climb,0.674737494
+67,0.792315413,0.031622777,"[6, 6]",relu,random_hill_climb,0.792671881
+68,0.755839384,0.031622777,"[24, 24]",relu,random_hill_climb,0.755192934
+69,0.556444462,0.031622777,"[12, 12, 12]",relu,random_hill_climb,0.554206952
+70,0.212802874,0.031622777,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+71,0.213379554,0.031622777,"[24, 24, 24]",relu,random_hill_climb,0.213380823
+72,0.367934917,0.01,[12],relu,random_hill_climb,0.367350325
+73,0.313365212,0.01,[6],relu,random_hill_climb,0.313439874
+74,0.403402431,0.01,[24],relu,random_hill_climb,0.403112226
+75,0.582756302,0.01,"[12, 12]",relu,random_hill_climb,0.583905336
+76,0.739979475,0.01,"[6, 6]",relu,random_hill_climb,0.738462018
+77,0.743368161,0.01,"[24, 24]",relu,random_hill_climb,0.743083781
+78,0.413206051,0.01,"[12, 12, 12]",relu,random_hill_climb,0.41233288
+79,0.212802874,0.01,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+80,0.212802822,0.01,"[24, 24, 24]",relu,random_hill_climb,0.212803623
+81,0.328647142,0.003162278,[12],relu,random_hill_climb,0.328710739
+82,0.305075001,0.003162278,[6],relu,random_hill_climb,0.305075456
+83,0.381776236,0.003162278,[24],relu,random_hill_climb,0.381774933
+84,0.547937905,0.003162278,"[12, 12]",relu,random_hill_climb,0.546996935
+85,0.71071177,0.003162278,"[6, 6]",relu,random_hill_climb,0.710776767
+86,0.735726885,0.003162278,"[24, 24]",relu,random_hill_climb,0.73558558
+87,0.381559526,0.003162278,"[12, 12, 12]",relu,random_hill_climb,0.381191911
+88,0.212802874,0.003162278,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+89,0.212802822,0.003162278,"[24, 24, 24]",relu,random_hill_climb,0.212803623
+90,0.31437365,0.001,[12],relu,random_hill_climb,0.314291536
+91,0.300677722,0.001,[6],relu,random_hill_climb,0.300751026
+92,0.376802146,0.001,[24],relu,random_hill_climb,0.376874135
+93,0.53243911,0.001,"[12, 12]",relu,random_hill_climb,0.53229038
+94,0.701268328,0.001,"[6, 6]",relu,random_hill_climb,0.701262106
+95,0.735510643,0.001,"[24, 24]",relu,random_hill_climb,0.735586412
+96,0.372476341,0.001,"[12, 12, 12]",relu,random_hill_climb,0.372539308
+97,0.212802874,0.001,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+98,0.212802822,0.001,"[24, 24, 24]",relu,random_hill_climb,0.212803623
+99,0.309904246,0.000316228,[12],relu,random_hill_climb,0.309967106
+100,0.2990197,0.000316228,[6],relu,random_hill_climb,0.299021088
+101,0.376297538,0.000316228,[24],relu,random_hill_climb,0.376296934
+102,0.528546386,0.000316228,"[12, 12]",relu,random_hill_climb,0.528541487
+103,0.698961502,0.000316228,"[6, 6]",relu,random_hill_climb,0.698954968
+104,0.73507808,0.000316228,"[24, 24]",relu,random_hill_climb,0.735009211
+105,0.368439473,0.000316228,"[12, 12, 12]",relu,random_hill_climb,0.368503063
+106,0.212802874,0.000316228,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+107,0.212802822,0.000316228,"[24, 24, 24]",relu,random_hill_climb,0.212803623
+108,0.306876517,0.0001,[12],relu,random_hill_climb,0.306794998
+109,0.2990197,0.0001,[6],relu,random_hill_climb,0.299021088
+110,0.376297564,0.0001,[24],relu,random_hill_climb,0.37629735
+111,0.528834727,0.0001,"[12, 12]",relu,random_hill_climb,0.528829672
+112,0.697808141,0.0001,"[6, 6]",relu,random_hill_climb,0.69780223
+113,0.735294348,0.0001,"[24, 24]",relu,random_hill_climb,0.735297811
+114,0.367358158,0.0001,"[12, 12, 12]",relu,random_hill_climb,0.367349909
+115,0.212802874,0.0001,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+116,0.212802822,0.0001,"[24, 24, 24]",relu,random_hill_climb,0.212803623
+117,0.306227765,3.16E-05,[12],relu,random_hill_climb,0.306218629
+118,0.298154628,3.16E-05,[6],relu,random_hill_climb,0.298155703
+119,0.375720883,3.16E-05,[24],relu,random_hill_climb,0.375720981
+120,0.52825802,3.16E-05,"[12, 12]",relu,random_hill_climb,0.528541071
+121,0.697231409,3.16E-05,"[6, 6]",relu,random_hill_climb,0.697225029
+122,0.735294348,3.16E-05,"[24, 24]",relu,random_hill_climb,0.735297811
+123,0.367358158,3.16E-05,"[12, 12, 12]",relu,random_hill_climb,0.367349909
+124,0.212802874,3.16E-05,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+125,0.212802822,3.16E-05,"[24, 24, 24]",relu,random_hill_climb,0.212803623
+126,0.305939399,1.00E-05,[12],relu,random_hill_climb,0.305930029
+127,0.298154628,1.00E-05,[6],relu,random_hill_climb,0.298155703
+128,0.376009249,1.00E-05,[24],relu,random_hill_climb,0.376009581
+129,0.528185922,1.00E-05,"[12, 12]",relu,random_hill_climb,0.528252887
+130,0.697231409,1.00E-05,"[6, 6]",relu,random_hill_climb,0.697225029
+131,0.735294348,1.00E-05,"[24, 24]",relu,random_hill_climb,0.735297811
+132,0.367358158,1.00E-05,"[12, 12, 12]",relu,random_hill_climb,0.367349909
+133,0.212802874,1.00E-05,"[6, 6, 6]",relu,random_hill_climb,0.212804455
+134,0.212802822,1.00E-05,"[24, 24, 24]",relu,random_hill_climb,0.212803623
+135,0.427481673,100,[12],sigmoid,random_hill_climb,0.415795668
+136,0.429136889,100,[6],sigmoid,random_hill_climb,0.414367637
+137,0.575474191,100,[24],sigmoid,random_hill_climb,0.553927085
+138,0.820573459,100,"[12, 12]",sigmoid,random_hill_climb,0.809684328
+139,0.817761998,100,"[6, 6]",sigmoid,random_hill_climb,0.807089004
+140,0.814735179,100,"[24, 24]",sigmoid,random_hill_climb,0.802186126
+141,0.819347532,100,"[12, 12, 12]",sigmoid,random_hill_climb,0.805655152
+142,0.801541495,100,"[6, 6, 6]",sigmoid,random_hill_climb,0.794984842
+143,0.818915593,100,"[24, 24, 24]",sigmoid,random_hill_climb,0.813435716
+144,0.426831986,31.6227766,[12],sigmoid,random_hill_climb,0.418683334
+145,0.441387426,31.6227766,[6],sigmoid,random_hill_climb,0.424187532
+146,0.581747033,31.6227766,[24],sigmoid,random_hill_climb,0.565455294
+147,0.825691719,31.6227766,"[12, 12]",sigmoid,random_hill_climb,0.807956469
+148,0.817690134,31.6227766,"[6, 6]",sigmoid,random_hill_climb,0.799588724
+149,0.817762284,31.6227766,"[24, 24]",sigmoid,random_hill_climb,0.803059828
+150,0.814806212,31.6227766,"[12, 12, 12]",sigmoid,random_hill_climb,0.811127329
+151,0.803344596,31.6227766,"[6, 6, 6]",sigmoid,random_hill_climb,0.799305945
+152,0.814445826,31.6227766,"[24, 24, 24]",sigmoid,random_hill_climb,0.803055254
+153,0.808318505,10,[12],sigmoid,random_hill_climb,0.798439729
+154,0.702339744,10,[6],sigmoid,random_hill_climb,0.685448973
+155,0.667962795,10,[24],sigmoid,random_hill_climb,0.640147876
+156,0.82172656,10,"[12, 12]",sigmoid,random_hill_climb,0.81256742
+157,0.815094864,10,"[6, 6]",sigmoid,random_hill_climb,0.804787687
+158,0.817762414,10,"[24, 24]",sigmoid,random_hill_climb,0.809113365
+159,0.813149464,10,"[12, 12, 12]",sigmoid,random_hill_climb,0.800744373
+160,0.804209773,10,"[6, 6, 6]",sigmoid,random_hill_climb,0.802770396
+161,0.814878206,10,"[24, 24, 24]",sigmoid,random_hill_climb,0.801325316
+162,0.801831265,3.16227766,[12],sigmoid,random_hill_climb,0.792098424
+163,0.763334464,3.16227766,[6],sigmoid,random_hill_climb,0.73760495
+164,0.810913619,3.16227766,[24],sigmoid,random_hill_climb,0.798443056
+165,0.819708724,3.16227766,"[12, 12]",sigmoid,random_hill_climb,0.812569499
+166,0.828287067,3.16227766,"[6, 6]",sigmoid,random_hill_climb,0.814015827
+167,0.824178361,3.16227766,"[24, 24]",sigmoid,random_hill_climb,0.815174387
+168,0.820573355,3.16227766,"[12, 12, 12]",sigmoid,random_hill_climb,0.807958132
+169,0.816248381,3.16227766,"[6, 6, 6]",sigmoid,random_hill_climb,0.802771228
+170,0.818123034,3.16227766,"[24, 24, 24]",sigmoid,random_hill_climb,0.810550545
+171,0.815743799,1,[12],sigmoid,random_hill_climb,0.812860594
+172,0.804425937,1,[6],sigmoid,random_hill_climb,0.795562043
+173,0.816969543,1,[24],sigmoid,random_hill_climb,0.804210903
+174,0.823096241,1,"[12, 12]",sigmoid,random_hill_climb,0.818337762
+175,0.825691589,1,"[6, 6]",sigmoid,random_hill_climb,0.819487173
+176,0.824538748,1,"[24, 24]",sigmoid,random_hill_climb,0.821223765
+177,0.819204479,1,"[12, 12, 12]",sigmoid,random_hill_climb,0.814876638
+178,0.825115506,1,"[6, 6, 6]",sigmoid,random_hill_climb,0.816610735
+179,0.817041252,1,"[24, 24, 24]",sigmoid,random_hill_climb,0.814012916
+180,0.814951006,0.316227766,[12],sigmoid,random_hill_climb,0.81026735
+181,0.806516677,0.316227766,[6],sigmoid,random_hill_climb,0.801328643
+182,0.813437362,0.316227766,[24],sigmoid,random_hill_climb,0.807385922
+183,0.814951084,0.316227766,"[12, 12]",sigmoid,random_hill_climb,0.806230273
+184,0.8241059,0.316227766,"[6, 6]",sigmoid,random_hill_climb,0.813432805
+185,0.815167352,0.316227766,"[24, 24]",sigmoid,random_hill_climb,0.813727643
+186,0.787197204,0.316227766,"[12, 12, 12]",sigmoid,random_hill_climb,0.787196793
+187,0.790584956,0.316227766,"[6, 6, 6]",sigmoid,random_hill_climb,0.789501021
+188,0.787197178,0.316227766,"[24, 24, 24]",sigmoid,random_hill_climb,0.787196377
+189,0.796280234,0.1,[12],sigmoid,random_hill_climb,0.795559964
+190,0.789792371,0.1,[6],sigmoid,random_hill_climb,0.789793364
+191,0.784746416,0.1,[24],sigmoid,random_hill_climb,0.782871115
+192,0.787197075,0.1,"[12, 12]",sigmoid,random_hill_climb,0.787194714
+193,0.78964833,0.1,"[6, 6]",sigmoid,random_hill_climb,0.789212005
+194,0.787269302,0.1,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+195,0.787197204,0.1,"[12, 12, 12]",sigmoid,random_hill_climb,0.787196793
+196,0.815167196,0.1,"[6, 6, 6]",sigmoid,random_hill_climb,0.813438211
+197,0.212802822,0.1,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+198,0.336647947,0.031622777,[12],sigmoid,random_hill_climb,0.33764903
+199,0.368150613,0.031622777,[6],sigmoid,random_hill_climb,0.363314495
+200,0.462586566,0.031622777,[24],sigmoid,random_hill_climb,0.462799256
+201,0.690599297,0.031622777,"[12, 12]",sigmoid,random_hill_climb,0.691745366
+202,0.787197075,0.031622777,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+203,0.787197204,0.031622777,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+204,0.787197204,0.031622777,"[12, 12, 12]",sigmoid,random_hill_climb,0.787196793
+205,0.212802874,0.031622777,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+206,0.212802822,0.031622777,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+207,0.219434959,0.01,[12],sigmoid,random_hill_climb,0.218860486
+208,0.225706295,0.01,[6],sigmoid,random_hill_climb,0.22664105
+209,0.33607267,0.01,[24],sigmoid,random_hill_climb,0.335062856
+210,0.321078899,0.01,"[12, 12]",sigmoid,random_hill_climb,0.321230003
+211,0.787197075,0.01,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+212,0.787197204,0.01,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+213,0.658088193,0.01,"[12, 12, 12]",sigmoid,random_hill_climb,0.658303496
+214,0.212802874,0.01,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+215,0.212802822,0.01,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+216,0.215686406,0.003162278,[12],sigmoid,random_hill_climb,0.215399778
+217,0.22520179,0.003162278,[6],sigmoid,random_hill_climb,0.224624175
+218,0.317401872,0.003162278,[24],sigmoid,random_hill_climb,0.316895592
+219,0.255911352,0.003162278,"[12, 12]",sigmoid,random_hill_climb,0.256058735
+220,0.787197075,0.003162278,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+221,0.787197204,0.003162278,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+222,0.323312821,0.003162278,"[12, 12, 12]",sigmoid,random_hill_climb,0.323812435
+223,0.212802874,0.003162278,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+224,0.212802822,0.003162278,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+225,0.215253896,0.001,[12],sigmoid,random_hill_climb,0.215399778
+226,0.225706425,0.001,[6],sigmoid,random_hill_climb,0.22548956
+227,0.313509253,0.001,[24],sigmoid,random_hill_climb,0.313437379
+228,0.240916931,0.001,"[12, 12]",sigmoid,random_hill_climb,0.2407729
+229,0.787197075,0.001,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+230,0.787197204,0.001,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+231,0.27883448,0.001,"[12, 12, 12]",sigmoid,random_hill_climb,0.278825721
+232,0.212802874,0.001,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+233,0.212802822,0.001,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+234,0.21539804,0.000316228,[12],sigmoid,random_hill_climb,0.215687962
+235,0.226211137,0.000316228,[6],sigmoid,random_hill_climb,0.226356193
+236,0.313148814,0.000316228,[24],sigmoid,random_hill_climb,0.313149195
+237,0.238466091,0.000316228,"[12, 12]",sigmoid,random_hill_climb,0.23846784
+238,0.787197075,0.000316228,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+239,0.787197204,0.000316228,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+240,0.264417077,0.000316228,"[12, 12, 12]",sigmoid,random_hill_climb,0.264410262
+241,0.212802874,0.000316228,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+242,0.212802822,0.000316228,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+243,0.21568638,0.0001,[12],sigmoid,random_hill_climb,0.215687962
+244,0.226427405,0.0001,[6],sigmoid,random_hill_climb,0.226356193
+245,0.313725521,0.0001,[24],sigmoid,random_hill_climb,0.313725979
+246,0.236159317,0.0001,"[12, 12]",sigmoid,random_hill_climb,0.236161533
+247,0.787197075,0.0001,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+248,0.787197204,0.0001,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+249,0.26023591,0.0001,"[12, 12, 12]",sigmoid,random_hill_climb,0.260083752
+250,0.212802874,0.0001,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+251,0.212802822,0.0001,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+252,0.21568638,3.16E-05,[12],sigmoid,random_hill_climb,0.215687962
+253,0.226932013,3.16E-05,[6],sigmoid,random_hill_climb,0.226932977
+254,0.313437181,3.16E-05,[24],sigmoid,random_hill_climb,0.313437795
+255,0.236087245,3.16E-05,"[12, 12]",sigmoid,random_hill_climb,0.235873349
+256,0.787197075,3.16E-05,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+257,0.787197204,3.16E-05,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+258,0.258361594,3.16E-05,"[12, 12, 12]",sigmoid,random_hill_climb,0.258352982
+259,0.212802874,3.16E-05,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+260,0.212802822,3.16E-05,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
+261,0.21568638,1.00E-05,[12],sigmoid,random_hill_climb,0.215687962
+262,0.226932013,1.00E-05,[6],sigmoid,random_hill_climb,0.226932977
+263,0.313437181,1.00E-05,[24],sigmoid,random_hill_climb,0.313437795
+264,0.236159317,1.00E-05,"[12, 12]",sigmoid,random_hill_climb,0.236161533
+265,0.787197075,1.00E-05,"[6, 6]",sigmoid,random_hill_climb,0.787194714
+266,0.787197204,1.00E-05,"[24, 24]",sigmoid,random_hill_climb,0.787196793
+267,0.257784914,1.00E-05,"[12, 12, 12]",sigmoid,random_hill_climb,0.257776613
+268,0.212802874,1.00E-05,"[6, 6, 6]",sigmoid,random_hill_climb,0.212804455
+269,0.212802822,1.00E-05,"[24, 24, 24]",sigmoid,random_hill_climb,0.212803623
